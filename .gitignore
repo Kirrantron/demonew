@@ -1,0 +1,12 @@
+*.hex
+*.bin
+*.elf
+*.o
+*.log
+*.tmp
+*.bak
+
+.vscode/
+build/
+Debug/
+Release/
